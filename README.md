@@ -114,7 +114,7 @@ AI визуализация позволяет получить изображе
 
 ## Видео демонстрация
 
-[Wardrobe Bot Demo](demo/wardrobe_bot_demo.mp4)
+[Wardrobe Bot Demo v1.0](https://github.com/MaratKamrad/wardrobe-bot-demo/releases/tag/v1.0-demo)
 
 # Технологии
 
